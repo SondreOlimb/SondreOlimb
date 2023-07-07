@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sondre Olimb</h1>
-<h3 align="center">Im a Eletrical engeneering student at NTNU in Trondheim, curently writing my master thesis developing a FMCW radar detection and tracking algorithm</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondreolimb&label=Profile%20views&color=0e75b6&style=flat" alt="sondreolimb" /> </p>
 
